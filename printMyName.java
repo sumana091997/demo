@@ -6,9 +6,14 @@ public class printMyName{
         return;
     }
 
-    public static void main(String []args){
-        Scanner sc=new Scanner(System.in);
-        String name=sc.next();
-        findMyName(name);
+    // public static void main(String []args){
+    //     Scanner sc=new Scanner(System.in);
+    //     String name=sc.next();
+    //     findMyName(name);
+    // }
+
+    public static void findMyName2(String name){
+        System.out.println(name);
+        return;
     }
 }
