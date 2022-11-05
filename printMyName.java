@@ -12,7 +12,11 @@ public class printMyName{
     //     findMyName(name);
     // }
 
-    public static void findMyName2(String name){
+    // public static void findMyName2(String name){
+    //     System.out.println(name);
+    //     return;
+    // }
+    public static void findMyName3(String name){
         System.out.println(name);
         return;
     }
