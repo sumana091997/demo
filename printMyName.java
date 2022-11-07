@@ -16,8 +16,11 @@ public class printMyName{
     //     System.out.println(name);
     //     return;
     // }
-    public static void findMyName3(String name){
+   // public static void findMyName3(String name){
         System.out.println(name);
         return;
-    }
+   // }
+   public static void findMyName3(String name){
+    System.out.println(name);
+    return;
 }
